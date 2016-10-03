@@ -1,7 +1,35 @@
+body{
+	background:#F1A94E;
+	font-family: 'Baloo Bhai', cursive;
+}
+
+h1,h2,h3{
+	color:#5D4C46;
+	text-align:center;
+}
+
+#left{
+	float:left;
+	width: 45%;
+}
+
+#right{
+	float:right;
+	width:45%;
+}
+
+#center{
+	clear:left;
+	width:40%;
+	margin: 0 auto;
+	text-align:center;
+}
+
 li {
-  background: #FAEBD7;
+  background: #F2EDD8;
   margin: 5px;
   padding: 5px;
+  border-radius:2px;
 }
 
 .label {
@@ -9,9 +37,10 @@ li {
 }
 
 .create-update-form {
-  background: aqua;
+  background: #E45641;
   margin: 5px;
   padding: 5px;
+  border-radius:2px;
 }
 
 .form-group {
