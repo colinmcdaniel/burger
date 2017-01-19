@@ -2,6 +2,9 @@
 
 Users create and devour burgers, all saved in a MySQL database.
 
+* [Deployed Application](https://mysql-burger.herokuapp.com/)
+* [GitHub Repository](https://github.com/colinmcdaniel/burger)
+
 ## Technologies
 
 * MySQL
